@@ -4,6 +4,10 @@ tagline = "Runtime typechecker for Roblox"
 gitSourceBranch = "master"
 changelog = false
 
+[docusaurus]
+url = "https://realnickk.github.io"
+baseUrl = "/q/"
+
 [footer]
 style = "dark"
 copyright = "Copyright © 2021 RealNickk. Built with Moonwave and Docusaurus"
