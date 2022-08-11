@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocs=self.webpackChunkdocs||[]).push([[572],{63891:s=>{s.exports=JSON.parse('{"sourceUrl":"https://github.com/RealNickk/q/blob/master","baseUrl":"/q/","classOrder":[],"apiCategories":[]}')}}]);
