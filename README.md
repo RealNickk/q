@@ -1,7 +1,7 @@
 <div align="center">
 	<h1>q</h1>
 	<p>A runtime typechecker for Lua 5.x with extra support for Roblox.</p>
-	<a href="https://me.rethinkify.net/q">View documentation</a>
+	<a href="https://realnickk.github.io/q/">View documentation</a>
 </div>
 <!--moonwave-hide-before-this-line-->
 
